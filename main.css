@@ -65,6 +65,9 @@ a:hover {
   text-align: center;
   height: 100vh;
   width: 100%;
+   background-position-x: 1%;
+  background-position-y: 32%;
+  }
 }
 
 @media (min-width: 768px) {
@@ -83,7 +86,7 @@ a:hover {
   margin: 0 auto;
   padding: .625rem;
   color: white;
-  background: hsla(100,0%,0%,.5);
+  background: hsla(100,0%,0%,.7);
 }
 
 .hero-text h1 {
